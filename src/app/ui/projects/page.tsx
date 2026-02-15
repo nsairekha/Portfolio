@@ -29,7 +29,7 @@ const projects: Project[] = [
     {
         title: "devlink.in",
         description: "DevLink is a platform that connects developers with projects, fostering collaboration and growth in the tech community. It allows developers to showcase their skills, find projects that match their interests, and collaborate with like-minded individuals to create innovative solutions.",
-        techStack: ["Next.js", "CSS", "TypeScript", "MySQL", "Docker", "Redis", "NGINX"],
+        techStack: ["Next.js", "CSS", "TypeScript", "MySQL"],
         liveLink: "https://dev-linkk.vercel.app/",
         sourceLink: "https://github.com/nsairekha/DevLink.git"
     },
